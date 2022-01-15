@@ -1,3 +1,4 @@
+
 const addBindings = (elements, func, binding) => {
   if (!Array.isArray(elements)) elements.addEventListener(binding, func);
   else elements.forEach((element) => element.addEventListener(binding, func));

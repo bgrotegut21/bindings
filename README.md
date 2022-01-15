@@ -1,6 +1,6 @@
 # Installation
 
-`npm i shorthandbindinngs --save`
+`npm i shorthandbindings --save`
 
 # About
 
