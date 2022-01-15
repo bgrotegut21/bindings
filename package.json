@@ -1,0 +1,22 @@
+{
+  "name": "shorthandbindings",
+  "version": "1.0.0",
+  "description": "a way to write event listeners using a shorthand property",
+  "main": "bindings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgrotegut21/bindings.git"
+  },
+  "keywords": [
+    "bidnings"
+  ],
+  "author": "bgrotegut21 <bgrotegut21@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgrotegut21/bindings/issues"
+  },
+  "homepage": "https://github.com/bgrotegut21/bindings#readme"
+}
